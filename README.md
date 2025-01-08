@@ -5,4 +5,4 @@ Simple module for making tabs in JS
 https://whateverrpl.github.io/simple-tabs/
 
 # Screenshots
-![изображение](https://github.com/user-attachments/assets/840cf6a0-057a-4219-963a-beaf4cf64698)
+![screenrec__00001](https://github.com/user-attachments/assets/e87fb0b6-4cd6-45a0-bae2-b5da522866a3)
