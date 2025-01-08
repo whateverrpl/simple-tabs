@@ -1,6 +1,11 @@
 # simple-tabs
 Simple module for making tabs in JS
 
+# Technologies i used
+- HTML
+- CSS
+- JavaScript
+
 # Live link
 https://whateverrpl.github.io/simple-tabs/
 
